@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Project5C#\bin\Debug\net8.0\Project5C#.exe
+C:\Users\Admin\source\repos\Project5C#\bin\Debug\net8.0\Project5C#.deps.json
+C:\Users\Admin\source\repos\Project5C#\bin\Debug\net8.0\Project5C#.runtimeconfig.json
+C:\Users\Admin\source\repos\Project5C#\bin\Debug\net8.0\Project5C#.dll
+C:\Users\Admin\source\repos\Project5C#\bin\Debug\net8.0\Project5C#.pdb
+C:\Users\Admin\source\repos\Project5C#\obj\Debug\net8.0\Project5C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Project5C#\obj\Debug\net8.0\Project5C#.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Project5C#\obj\Debug\net8.0\Project5C#.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Project5C#\obj\Debug\net8.0\Project5C#.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Project5C#\obj\Debug\net8.0\Project5C#.dll
+C:\Users\Admin\source\repos\Project5C#\obj\Debug\net8.0\refint\Project5C#.dll
+C:\Users\Admin\source\repos\Project5C#\obj\Debug\net8.0\Project5C#.pdb
+C:\Users\Admin\source\repos\Project5C#\obj\Debug\net8.0\Project5C#.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Project5C#\obj\Debug\net8.0\ref\Project5C#.dll
